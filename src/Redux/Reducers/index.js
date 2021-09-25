@@ -1,6 +1,8 @@
 import { combineReducers } from "redux";
-import HomeR from "./HomeReducer";
+import CategoryR from "./CategoryR";
+import ProductR from "./ProductR";
 
 export default combineReducers({
-  HomeR,
+  CategoryR,
+  ProductR,
 });

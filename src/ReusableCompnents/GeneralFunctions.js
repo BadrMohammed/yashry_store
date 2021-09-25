@@ -3,14 +3,19 @@ export const showNotificationMessage = (title, type) => {
   swal(title, "", type);
 };
 
-export const numToLetter = (num) => {
-  let s = "",
-    t;
+export const divideArrayToPages = (items) => {
+  let pages = [];
+  let i,
+    j,
+    temporary,
+    chunk = 6;
+  let count = 1;
 
-  while (num > 0) {
-    t = (num - 1) % 26;
-    s = String.fromCharCode(65 + t) + s;
-    num = ((num - t) / 26) | 0;
+  for (i = 0, j = items.length; i < j; i += chunk) {
+    temporary = items.slice(i, i + chunk);
+    pages.push(temporary);
+    count = count + 1;
   }
-  return s || undefined;
+
+  return pages;
 };
