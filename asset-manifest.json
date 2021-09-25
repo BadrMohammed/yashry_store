@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/yashry_store/static/css/main.8e47b2bb.chunk.css",
+    "main.js": "/yashry_store/static/js/main.16932304.chunk.js",
+    "main.js.map": "/yashry_store/static/js/main.16932304.chunk.js.map",
+    "runtime-main.js": "/yashry_store/static/js/runtime-main.240c8864.js",
+    "runtime-main.js.map": "/yashry_store/static/js/runtime-main.240c8864.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/yashry_store/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.2a71cb1e.chunk.js": "/yashry_store/static/js/2.2a71cb1e.chunk.js",
+    "static/js/2.2a71cb1e.chunk.js.map": "/yashry_store/static/js/2.2a71cb1e.chunk.js.map",
+    "static/js/3.4b445202.chunk.js": "/yashry_store/static/js/3.4b445202.chunk.js",
+    "static/js/3.4b445202.chunk.js.map": "/yashry_store/static/js/3.4b445202.chunk.js.map",
+    "index.html": "/yashry_store/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/yashry_store/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.8e47b2bb.chunk.css.map": "/yashry_store/static/css/main.8e47b2bb.chunk.css.map",
+    "static/js/2.2a71cb1e.chunk.js.LICENSE.txt": "/yashry_store/static/js/2.2a71cb1e.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/yashry_store/static/media/Tajawal-Regular.2a157b78.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.240c8864.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.2a71cb1e.chunk.js",
+    "static/css/main.8e47b2bb.chunk.css",
+    "static/js/main.16932304.chunk.js"
+  ]
+}
